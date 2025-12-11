@@ -1,0 +1,41 @@
+
+body {
+    background-color: LightSalmon;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+.naglowek {
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.lewy-gora {
+    width: 30%;
+    height: 400px;
+    float: left;
+}
+
+.lewy-dol {
+    width: 30%;
+    height: 100px;
+    background-color: DarkSalmon;
+    float: left;
+}
+
+.prawy {
+    width: 70%;
+    height: 500px;
+    background-color: DarkSalmon;
+    float: left;
+    overflow: auto;
+}
+
+
+.stopka {
+    width: 100%;
+    height: 1px;
+    float: 
+}
